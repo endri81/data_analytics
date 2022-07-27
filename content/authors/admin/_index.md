@@ -46,28 +46,28 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/endriraco
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=MLoC8t4AAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/endriraco
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/endriraco/
+    - icon: envelope
+      icon_pack: fas
+      link: 'mailto:endri81@gmail.com'
+    - icon: twitter
+      icon_pack: fab
+      link: https://twitter.com/endriraco
+    - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+      icon_pack: fas
+      link: https://scholar.google.com/citations?user=MLoC8t4AAAAJ&hl=en
+    - icon: github
+      icon_pack: fab
+      link: https://github.com/endriraco
+    - icon: linkedin
+      icon_pack: fab
+      link: https://www.linkedin.com/in/endriraco/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-  - icon: cv
-   icon_pack: ai
-   link: uploads/resume.pdf
+    - icon: cv
+      icon_pack: ai
+      link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
