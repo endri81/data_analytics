@@ -22,7 +22,6 @@ feature:
     name: R
   - description: 100%
     icon: statistics
-    icon_pack: fas
     name: Statistics
   - description: 10%
     icon: camera-retro
