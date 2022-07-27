@@ -57,7 +57,7 @@ social:
       link: https://scholar.google.com/citations?user=MLoC8t4AAAAJ&hl=en
     - icon: github
       icon_pack: fab
-      link: https://github.com/endriraco
+      link: https://github.com/endri81
     - icon: linkedin
       icon_pack: fab
       link: https://www.linkedin.com/in/endriraco/
@@ -78,4 +78,4 @@ highlight_name: true
 
 Qualified with a PhD in Statistics and with 2 Masters degrees in System Analysis and Control and Informatics and Computing Engineering, I have established a strong career as a consultant working with government bodies and not for profit organisations, leading strategy development, programme management and supporting social initiatives with a foundation of data management and analysis. With a natural affinity towards technical problem solving and driving complex numerical data interpretation, I am a strategic project manager, investing skill, meticulous planning and commercial insight into acquiring the right information and translating findings into tangible results.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
