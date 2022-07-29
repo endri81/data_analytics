@@ -32,14 +32,36 @@ experience:
     description: |2-
         Sharing my love of numbers and analysis is the foundation of my career. By delivering comprehensive, engaging undergraduate/graduate level teaching         in Data Science & Machine Learning; Statistical Programming in R, Python; Probability and Statistics, I project manage the design, content research         and delivery of Data Science teaching courses, integrating core data science fundamentals and expanding course content to support related data              science disciplines.  
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: : ICT Specialist/Key Expert
+    company: FCG Swedish Development AB
+    company_url: 'https://www.fcg.fi/en/fcg-sweden/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Pristina
+    date_start: '2022-06-01'
+    date_end: ''
+    description: As the project’s IT focal point for the Programme Implementation Unit, masterminding project deliverables for the Project IT Component,            coordinating resources, team engagement and translating each element into core tasks i.e drafting ToR and identifying profiles of short-term experts         in Component 3 to execute assignments.
+    
+  - title: : National ICT expert
+    company: UNDP
+    company_url: 'https://www.undp.org/'
+    company_logo: org-x
+    location: Albania
+    date_start: '2022-06-10'
+    date_end: ''
+    description: Leading  the project for Continuous Unemployed Learning by integrating national ICT framework insights to develop a digital literacy               curriculum, drafting and validating methodology to support adults with low-literacy level. Part of this role is to develop roll out strategies and a         scale-up strategy for similar learning platforms across Albania, integrating localised data analysis/market insights to establish bespoke                   sub-projects.
+    
+  - title: : Consultant & Statistician
+    company: UNICEF
+    company_url: 'https://www.unicef.org/albania/'
+    company_logo: org-x
+    location: Albania
+    date_start: '2020-03-01'
+    date_end: '2022-06-01'
+    description: During this period, I led 3 key projects across different subject areas:
+          *	Data and Statistics on the Rights and Protection of Children project: Collating, validating, and analysing data acquired from a wide range of               resources, translating key insights into tangible information for publication into reports and presentations. 
+          *	Covid19 Emergency Working Group Shiny Dashboard:  Establishing a data-driven dashboard through comprehensive data management to deliver a                   programme strategy in response to the global pandemic.
+          *	One Click Away Shiny Dashboard: Launched a data-driven thought dashboard to support a programme strategy to identify problems associated with               children’s use of the internet; managed the end-to-end project from data research, collation, processing and interpretation.
+
 
 design:
   columns: '2'
