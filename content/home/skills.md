@@ -19,14 +19,18 @@ feature:
   - description: 100%
     icon: r-project
     icon_pack: fab
-    name: R
+    name: Statistical Software
   - description: 100%
     icon: statistics
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
+    name: Statistical Analysis
+  - description: 80%
+    icon: database
     icon_pack: fas
-    name: Photography
+    name: Data Science
+  - description: 90%
+    icon: computer-classic
+    icon_pack: fas
+    name: Data Managment
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
