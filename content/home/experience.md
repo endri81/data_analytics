@@ -58,9 +58,9 @@ experience:
     date_start: '2020-03-01'
     date_end: '2022-06-01'
     description: During this period, I led 3 key projects across different subject areas
-          *	Data and Statistics on the Rights and Protection of Children project: Collating, validating, and analysing data acquired from a wide range of               resources, translating key insights into tangible information for publication into reports and presentations. 
-          *	Covid19 Emergency Working Group Shiny Dashboard:  Establishing a data-driven dashboard through comprehensive data management to deliver a                   programme strategy in response to the global pandemic.
-          *	One Click Away Shiny Dashboard: Launched a data-driven thought dashboard to support a programme strategy to identify problems associated with               children’s use of the internet; managed the end-to-end project from data research, collation, processing and interpretation.
+          *	_Data and Statistics on the Rights and Protection of Children project_ Collating, validating, and analysing data acquired from a wide range of               resources, translating key insights into tangible information for publication into reports and presentations. 
+          *	_Covid19 Emergency Working Group Shiny Dashboard_   Establishing a data-driven dashboard through comprehensive data management to deliver a                   programme strategy in response to the global pandemic.
+          *	_One Click Away Shiny Dashboard_ Launched a data-driven thought dashboard to support a programme strategy to identify problems associated with               children’s use of the internet; managed the end-to-end project from data research, collation, processing and interpretation.
 
 
 design:
