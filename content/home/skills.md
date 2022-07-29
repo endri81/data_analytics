@@ -17,22 +17,23 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 100%
-    icon: r-project
-    icon_pack: fab
+  - icon: "rstudio"
+    icon_pack: "custom"
     name: Statistical Software
   - description: 100%
-    icon: statistics
-    name: Statistical Analysis
+  - icon: "project-management"
+    icon_pack: "custom"
+    name: Project Management
   - description: 80%
-    icon: database
-    icon_pack: fas
+  - icon: "datascience"
+    icon_pack: "custom"
     name: Data Science
   - description: 90%
-    icon: computer-classic
-    icon_pack: fab
+  - icon: "datamanagment"
+    icon_pack: "custom"
     name: Data Managment
   - icon: "statistics"
     icon_pack: "custom"
-    name: Statistics
+    name: Statistical Analysis
     description: "90%"
 ---
