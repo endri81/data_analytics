@@ -21,22 +21,18 @@ feature:
     icon_pack: "custom"
     name: Statistical Software
     description: 100%
-   
   - icon: "project-management"
     icon_pack: "custom"
     name: Project Management
-     description: 90%
-    
+    description: 90%
   - icon: "datascience"
     icon_pack: "custom"
     name: Data Science
     description: 90%
-    
   - icon: "datamanagment"
     icon_pack: "custom"
     name: Data Managment
     description: 90%
-  
   - icon: "statistics"
     icon_pack: "custom"
     name: Statistical Analysis
