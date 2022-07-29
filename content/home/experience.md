@@ -32,7 +32,7 @@ experience:
     description: |2-
         Sharing my love of numbers and analysis is the foundation of my career. By delivering comprehensive, engaging undergraduate/graduate level teaching         in Data Science & Machine Learning; Statistical Programming in R, Python; Probability and Statistics, I project manage the design, content research         and delivery of Data Science teaching courses, integrating core data science fundamentals and expanding course content to support related data              science disciplines.  
 
-  - title: : ICT Specialist/Key Expert
+  - title: : ICT Specialist & Key Expert
     company: FCG Swedish Development AB
     company_url: 'https://www.fcg.fi/en/fcg-sweden/'
     company_logo: org-x
@@ -57,7 +57,7 @@ experience:
     location: Albania
     date_start: '2020-03-01'
     date_end: '2022-06-01'
-    description: During this period, I led 3 key projects across different subject areas:
+    description: During this period, I led 3 key projects across different subject areas
           *	Data and Statistics on the Rights and Protection of Children project: Collating, validating, and analysing data acquired from a wide range of               resources, translating key insights into tangible information for publication into reports and presentations. 
           *	Covid19 Emergency Working Group Shiny Dashboard:  Establishing a data-driven dashboard through comprehensive data management to deliver a                   programme strategy in response to the global pandemic.
           *	One Click Away Shiny Dashboard: Launched a data-driven thought dashboard to support a programme strategy to identify problems associated with               children’s use of the internet; managed the end-to-end project from data research, collation, processing and interpretation.
