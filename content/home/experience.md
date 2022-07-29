@@ -22,14 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Lecturer:  Statistical Analysis & Data Science
-    company: Polytechnic University of Tirane
-    company_url: 'www.upt.al'
-    location: Albania
-    date_start: '2011-01-01'
+  - title: CEO
+    company: GenCoin
+    company_url: ''
+    company_logo: org-gc
+    location: California
+    date_start: '2021-01-01'
     date_end: ''
     description: |2-
-        Sharing my love of numbers and analysis is the foundation of my career. By delivering comprehensive, engaging undergraduate/graduate level teaching         in Data Science & Machine Learning; Statistical Programming in R, Python; Probability and Statistics, I project manage the design, content research         and delivery of Data Science teaching courses, integrating core data science fundamentals and expanding course content to support related data              science disciplines.  
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
 
   - title: Professor of Semiconductor Physics
     company: University X
