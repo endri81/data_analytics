@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: Use of Multivariate Statistical Analysis of Hydrochemical Data for the Identification of the Geochemical Processes in the Tirana-Fushe Kuqe Alluvial Aquifer, North-Western Albania
 subtitle: ''
 
 content:
@@ -25,9 +25,9 @@ content:
     exclude_future: false
     exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
-  count: 0
+  count: 2
   # Choose how many pages you would like to offset by
-  offset: 0
+  offset: 1
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 design:
