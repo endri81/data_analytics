@@ -16,11 +16,11 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - post
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
+      - posts
+    tag: 'Data Analytics'
+    category: 'Data Analytics'
+    publication_type: 'Data Analytics'
+    author: 'Endri Raco'
     exclude_featured: false
     exclude_future: false
     exclude_past: false
