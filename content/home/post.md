@@ -16,7 +16,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - posts
+      - post
     tag: 'Data Analytics'
     category: 'Data Analytics'
     publication_type: 'Data Analytics'
