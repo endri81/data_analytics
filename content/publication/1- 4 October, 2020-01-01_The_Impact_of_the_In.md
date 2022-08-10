@@ -1,6 +1,6 @@
 +++
 title = "The Impact of the Insurance Market to the Financial Stability in Albania"
-date = "2020"
+date = "2020-01-01"
 authors = ["Oriana Zacaj", "Kleida Haxhi", "Endri RACO", "Etleva Llagami"]
 publication_types = ["1"]
 publication = "1st International Applied Statistics Conference.  Tokat, Turkey"

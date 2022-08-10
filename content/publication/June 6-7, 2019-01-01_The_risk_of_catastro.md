@@ -1,6 +1,6 @@
 +++
 title = "The risk of catastrophes through Solvency II"
-date = "2019"
+date = "2019-01-01"
 authors = ["Oriana Zacaj", "Endri RACO"]
 publication_types = ["1"]
 publication = "The XXIX International Scientific Conference.  Trakya University, Stara Zagora, Bulgaria"
