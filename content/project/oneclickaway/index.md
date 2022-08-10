@@ -9,7 +9,7 @@ categories: [Data Analytics]
 date: 2022-08-10T09:24:34+02:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://endriraco.shinyapps.io/OneClickAway/?_ga=2.86652442.367594294.1660033370-405543965.1659781086"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
