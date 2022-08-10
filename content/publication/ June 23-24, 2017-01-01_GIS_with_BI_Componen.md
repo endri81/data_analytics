@@ -1,10 +1,10 @@
 +++
 title = "GIS with BI Component in Decision Taking"
-date = "NA"
+date = "2017"
 authors = ["Shkelqim Kuka", "Adrian Naco", "Teuta Myftiu", "Endri Raco"]
 publication_types = ["1"]
-publication = "Information Systems and Technology Innovations: Fostering the As-A-Service Economy.  Faculty of Economics, Tirana University, Albania:"
-publication_short = "Information Systems and Technology Innovations: Fostering the As-A-Service Economy.  Faculty of Economics, Tirana University, Albania:"
+publication = "Information Systems and Technology Innovations: Fostering the As-A-Service Economy.  Faculty of Economics, Tirana University, Albania"
+publication_short = "Information Systems and Technology Innovations: Fostering the As-A-Service Economy.  Faculty of Economics, Tirana University, Albania"
 url_code = ""
 image_preview = ""
 selected = false

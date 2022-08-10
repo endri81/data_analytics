@@ -1,10 +1,10 @@
 +++
 title = "Albanian Institute of Statistics Approach to R Language"
-date = "NA"
+date = "2017"
 authors = ["Endri RACO", "Alma Kondi"]
 publication_types = ["1"]
-publication = "Proceedings of ICASE 2017 International Conference on Applied Statistics and Econometrics.  17-21. Epoka University and INSTAT, Albania:. ISBN: 978-9928-135-20-9"
-publication_short = "Proceedings of ICASE 2017 International Conference on Applied Statistics and Econometrics.  17-21. Epoka University and INSTAT, Albania:. ISBN: 978-9928-135-20-9"
+publication = "Proceedings of ICASE 2017 International Conference on Applied Statistics and Econometrics.  17-21. Epoka University and INSTAT, Albania. ISBN: 978-9928-135-20-9"
+publication_short = "Proceedings of ICASE 2017 International Conference on Applied Statistics and Econometrics.  17-21. Epoka University and INSTAT, Albania. ISBN: 978-9928-135-20-9"
 url_code = ""
 image_preview = ""
 selected = false

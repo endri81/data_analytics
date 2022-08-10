@@ -1,10 +1,10 @@
 +++
 title = "A Combination of statistical methods with GIS in modelling"
-date = "NA"
+date = "2012"
 authors = ["Endri RACO"]
 publication_types = ["1"]
-publication = "Information Systems and Technology Innovation: their application in Economy.  Faculty of Economics, Tirana University, Albania:"
-publication_short = "Information Systems and Technology Innovation: their application in Economy.  Faculty of Economics, Tirana University, Albania:"
+publication = "Information Systems and Technology Innovation: their application in Economy.  Faculty of Economics, Tirana University, Albania"
+publication_short = "Information Systems and Technology Innovation: their application in Economy.  Faculty of Economics, Tirana University, Albania"
 url_code = ""
 image_preview = ""
 selected = false

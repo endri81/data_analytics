@@ -1,10 +1,10 @@
 +++
 title = "Estimating Claims Reserve Splitting IBNER and IBNYR in the Chain Ladder Method"
-date = "NA"
+date = "2020"
 authors = ["Kleida Haxhi", "Endri RACO", "Etleva Llagami", "Oriana Zacaj"]
 publication_types = ["1"]
-publication = "1st International Applied Statistics Conference.  Tokat, Turkey:"
-publication_short = "1st International Applied Statistics Conference.  Tokat, Turkey:"
+publication = "1st International Applied Statistics Conference.  Tokat, Turkey"
+publication_short = "1st International Applied Statistics Conference.  Tokat, Turkey"
 url_code = ""
 image_preview = ""
 selected = false

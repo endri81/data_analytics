@@ -1,10 +1,10 @@
 +++
 title = "Mortality rates: Updating the most appropriate rates for the Albanian life insurance companies"
-date = "NA"
+date = "2019"
 authors = ["Etleva Llagami", "Kleida Haxhi", "Endri RACO"]
 publication_types = ["1"]
-publication = "32nd Panhellenic Statistics Conference.  Statistical Institute and the Department of Mathematics of the University of Ioannina, Greece:"
-publication_short = "32nd Panhellenic Statistics Conference.  Statistical Institute and the Department of Mathematics of the University of Ioannina, Greece:"
+publication = "32nd Panhellenic Statistics Conference.  Statistical Institute and the Department of Mathematics of the University of Ioannina, Greece"
+publication_short = "32nd Panhellenic Statistics Conference.  Statistical Institute and the Department of Mathematics of the University of Ioannina, Greece"
 url_code = ""
 image_preview = ""
 selected = false
