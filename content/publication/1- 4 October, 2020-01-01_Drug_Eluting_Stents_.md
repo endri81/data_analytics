@@ -1,7 +1,7 @@
 +++
 title = "Drug Eluting Stents versus Bare Metal Stents in Patients with ST-Elevated Myocardial Infarction"
-date = "2020"
-authors = ["Etleva Llagami", "Endri RACO", "Kleida Haxhi", "Oriana Zacaj"]
+date = "2020-01-01"
+authors = ["Etleva Llagami", "Endri Raco", "Kleida Haxhi", "Oriana Zacaj"]
 publication_types = ["1"]
 publication = "1st International Applied Statistics Conference.  Tokat, Turkey"
 publication_short = "1st International Applied Statistics Conference.  Tokat, Turkey"
