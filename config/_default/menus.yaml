@@ -15,7 +15,7 @@ main:
     url: '#featured'
     weight: 50
   - name: Posts
-    url: '#featured'
+    url: '#posts'
     weight: 50
   - name: Contact
     url: '#contact'
