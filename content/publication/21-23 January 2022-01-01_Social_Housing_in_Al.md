@@ -1,6 +1,6 @@
 +++
 title = "Social Housing in Albania: Using Shiny to enhance visualization and interpretation of study key findings"
-date = "NA"
+date = "2022"
 authors = ["Endri RACO"]
 publication_types = ["1"]
 publication = "New Trends in Mathematical Sciences, “International Symposium on Applied Mathematics and Engineering (ISAME 2022),  Istanbul, Turkey"
