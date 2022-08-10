@@ -17,10 +17,10 @@ content:
   filters:
     folders:
       - post
-    tag: 'Data Analytics'
-    category: 'Data Analytics'
-    publication_type: 'Data Analytics'
-    author: 'Endri Raco'
+    tag: ''
+    category: ''
+    publication_type: ''
+    author: ''
     exclude_featured: false
     exclude_future: false
     exclude_past: false
