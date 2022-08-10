@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Socialhousing"
-summary: ""
-authors: []
-tags: []
-categories: []
+title: "Social Housing in Albania"
+summary: "Dashboard reflecting key findings of Social Housing in Albania study conducted by UNDP"
+authors: [Endri Raco]
+tags: [Data Analytics]
+categories: [Data Analytics]
 date: 2022-08-10T09:35:51+02:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://endriraco.shinyapps.io/SocialHousingForm/?_ga=2.52714794.367594294.1660033370-405543965.1659781086"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
