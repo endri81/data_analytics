@@ -1,6 +1,6 @@
 +++
 title = "Teoria e Probabilitetit dhe Statistika Matematike (Ushtrime)"
-date = "NA"
+date = "2017-01-01"
 authors = ["Endri Raco", "Etleva Llagami", "Kleida Haxhi", "Oriana Zace"]
 publication_types = ["5"]
 publication = " Korçë, Shqipëri: Shtypshkronja KOTTI. ISBN: 978-9928-167-76-7"

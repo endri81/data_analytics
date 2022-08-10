@@ -1,6 +1,6 @@
 +++
 title = "A Stochastic Mortality model for the Albanian Life Insurance Companies"
-date = "NA"
+date = "2021-01-01"
 authors = ["Etleva Llagami", "Oriana Zacaj", "Kleida Haxhi", "Endri RACO"]
 publication_types = ["1"]
 publication = "32nd Panhellenic Statistics Conference.  Hungary:"

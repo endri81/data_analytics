@@ -1,6 +1,6 @@
 +++
 title = "Uncertainty of the Claims Development Result in the Chain Ladder Method for Compulsory Motor Insurance"
-date = "2020"
+date = "2020-01-01"
 authors = ["Kleida Haxhi", "Endri Raco", "Etleva Llagami", "Oriana Zacaj"]
 publication_types = ["1"]
 publication = "1st International Applied Statistics Conference.  Tokat, Turkey"
