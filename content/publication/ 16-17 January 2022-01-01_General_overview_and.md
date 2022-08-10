@@ -1,10 +1,10 @@
 +++
 title = "General overview and characteristics of domestic violence on children   in Albania"
-date = "NA"
-authors = ["Endri RACO"]
+date = "2022-01-01"
+authors = ["Endri Raco"]
 publication_types = ["1"]
-publication = "Proceedings of International Liberty Interdisciplinary Studies Conference.  212-217. Manhattan, New York:. ISBN: 978-1-955094-19-1"
-publication_short = "Proceedings of International Liberty Interdisciplinary Studies Conference.  212-217. Manhattan, New York:. ISBN: 978-1-955094-19-1"
+publication = "Proceedings of International Liberty Interdisciplinary Studies Conference.  212-217. Manhattan, New York. ISBN: 978-1-955094-19-1"
+publication_short = "Proceedings of International Liberty Interdisciplinary Studies Conference.  212-217. Manhattan, New York. ISBN: 978-1-955094-19-1"
 url_code = ""
 image_preview = ""
 selected = false
