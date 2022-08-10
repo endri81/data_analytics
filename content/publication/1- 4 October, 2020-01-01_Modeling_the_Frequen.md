@@ -1,10 +1,10 @@
 +++
 title = "Modeling the Frequency of Auto Insurance Claims in the Albanian Market"
-date = "NA"
-authors = ["Endri RACO", "Kleida Haxhi", "Etleva Llagami", "Oriana Zacaj"]
+date = "2020-01-01"
+authors = ["Endri Raco", "Kleida Haxhi", "Etleva Llagami", "Oriana Zacaj"]
 publication_types = ["1"]
-publication = "1st International Applied Statistics Conference.  Tokat, Turkey:"
-publication_short = "1st International Applied Statistics Conference.  Tokat, Turkey:"
+publication = "1st International Applied Statistics Conference.  Tokat, Turkey"
+publication_short = "1st International Applied Statistics Conference.  Tokat, Turkey"
 url_code = ""
 image_preview = ""
 selected = false

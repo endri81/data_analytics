@@ -1,10 +1,10 @@
 +++
 title = "Solvency II: how to implement it to the Albanian insurance market"
 date = "NA"
-authors = ["Kleida Haxhi", "Oriana Zacaj", "Endri RACO"]
+authors = ["Kleida Haxhi", "Oriana Zacaj", "Endri Raco"]
 publication_types = ["1"]
-publication = "The XXIX International Scientific Conference.  Trakya University, Stara Zagora, Bulgaria:"
-publication_short = "The XXIX International Scientific Conference.  Trakya University, Stara Zagora, Bulgaria:"
+publication = "The XXIX International Scientific Conference.  Trakya University, Stara Zagora, Bulgaria"
+publication_short = "The XXIX International Scientific Conference.  Trakya University, Stara Zagora, Bulgaria"
 url_code = ""
 image_preview = ""
 selected = false

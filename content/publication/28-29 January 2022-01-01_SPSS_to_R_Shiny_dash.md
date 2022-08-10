@@ -1,7 +1,7 @@
 +++
 title = "SPSS to R: Shiny dashboard approach to converting tool"
 date = "2022-01-01"
-authors = ["Endri RACO"]
+authors = ["Endri Raco"]
 publication_types = ["1"]
 publication = "International European Conference on Interdisciplinary Scientific Researches.  Valencia, Spain"
 publication_short = "International European Conference on Interdisciplinary Scientific Researches.  Valencia, Spain"

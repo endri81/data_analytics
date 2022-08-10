@@ -1,7 +1,7 @@
 +++
 title = "Maximum Likelihood estimation and policy limit bound for loss amount distributions"
-date = "2017"
-authors = ["Etleva Llagami", "Endri RACO", "Kleida Haxhi"]
+date = "2017-01-01"
+authors = ["Etleva Llagami", "Endri Raco", "Kleida Haxhi"]
 publication_types = ["1"]
 publication = "The 2nd International Conference on Applied Sciences and Engineering 2017 (ICEAS 2017).  FIMIF, Tirana Polytechnic University, Albania"
 publication_short = "The 2nd International Conference on Applied Sciences and Engineering 2017 (ICEAS 2017).  FIMIF, Tirana Polytechnic University, Albania"
