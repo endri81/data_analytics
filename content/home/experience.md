@@ -46,7 +46,7 @@ experience:
     company_logo: org-x
     location: Albania
     date_start: '2022-06-10'
-    date_end: ''
+    date_end: '2022-08-30'
     description: |2-
         Leading  the project for Continuous Unemployed Learning by integrating national ICT framework insights to develop a digital literacy                        curriculum, drafting and validating methodology to support adults with low-literacy level. Part of this role is to develop roll out strategies and a         scale-up strategy for similar learning platforms across Albania, integrating localised data analysis/market insights to establish bespoke                   sub-projects. 
   - title: Consultant & Statistician
