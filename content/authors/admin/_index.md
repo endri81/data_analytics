@@ -6,7 +6,7 @@ title: Endri Raço
 superuser: true
 
 # Role/position/tagline
-role: Highly experienced Statistician, Consultant and lecturer of Statistical analysis and Data Science, driving strategy development based on data management and statistical modelling.
+role: Highly experienced Statistician, Consultant and Associate Professor of Statistical analysis and Data Science, driving strategy development based on data management and statistical modelling.
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -49,9 +49,9 @@ social:
     - icon: envelope
       icon_pack: fas
       link: 'mailto:endri81@gmail.com'
-    - icon: twitter
+    - icon: graduation-cap
       icon_pack: fab
-      link: https://twitter.com/endriraco
+      link: https://www.scopus.com/authid/detail.uri?authorId=57782886500
     - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
       icon_pack: fas
       link: https://scholar.google.com/citations?user=MLoC8t4AAAAJ&hl=en
